@@ -2,7 +2,6 @@ Développement d’un système de réservation
 ===========
 
 Projet de Base de Données niveau L3 proposé par J.-M. Busca.
-
 Sujet (résumé)
 =====
 
